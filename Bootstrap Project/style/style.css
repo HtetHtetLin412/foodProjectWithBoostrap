@@ -27,7 +27,7 @@ opacity: 1;
     width: 100%;
     height: 600px;
     padding-top: 50px;
-    background-image:url("images/Chocolatecake.jpg");
+    background-image:url("../images/Chocolatecake.jpg");
     background-repeat:no-repeat ;
     background-size: 100% 100%;
     position: relative;
